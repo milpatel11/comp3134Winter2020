@@ -1,0 +1,14 @@
+Tracing route to google.ca [172.217.165.3]
+over a maximum of 30 hops:
+
+  1     5 ms     1 ms     1 ms  cp.local.tld [192.168.0.1]
+  2     *        *        *     Request timed out.
+  3    29 ms    24 ms    22 ms  10.118.50.53
+  4    25 ms    25 ms    27 ms  2083-cgw01.wlfdle.rmgt.net.rogers.com [209.148.234.17]
+  5    29 ms    24 ms    31 ms  209.148.233.38
+  6    30 ms    36 ms    30 ms  72.14.222.87
+  7    26 ms    23 ms    27 ms  74.125.244.161
+  8    29 ms    29 ms    35 ms  216.239.41.175
+  9    38 ms    29 ms    24 ms  yyz12s06-in-f3.1e100.net [172.217.165.3]
+
+Trace complete.

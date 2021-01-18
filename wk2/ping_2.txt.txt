@@ -1,0 +1,14 @@
+C:\Users\milan>ping 165.227.37.88
+
+Pinging 165.227.37.88 with 32 bytes of data:
+Reply from 165.227.37.88: bytes=32 time=25ms TTL=55
+Reply from 165.227.37.88: bytes=32 time=28ms TTL=55
+Reply from 165.227.37.88: bytes=32 time=27ms TTL=55
+Reply from 165.227.37.88: bytes=32 time=32ms TTL=55
+
+Ping statistics for 165.227.37.88:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 25ms, Maximum = 32ms, Average = 28ms
+
+C:\Users\milan>
